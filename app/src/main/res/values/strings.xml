@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="description_kremlin">One of the main attractions</string>
+    <string name="locate_kremlin">Moscow, Russia</string>
+    <string name="previous_btn">Previous</string>
+    <string name="next_btn">Next</string>
+    <string name="description_ost_tower">The main center of Russian television</string>
+    <string name="locate_ost_tower">Moscow, Russia</string>
+    <string name="description_cathedral">The main Cathedral in Moscow</string>
+    <string name="locate_cathedral">Moscow, Russia</string>
+    <string name="description_hermitage">It is the most famous museum in Russia</string>
+    <string name="locate_hermitage">Saint Petersburg, Russia</string>
+    <string name="description_kazan_kremlin">The oldest part of Kazan</string>
+    <string name="locate_kazan_kremlin">Kazan, Russia</string>
+</resources>
